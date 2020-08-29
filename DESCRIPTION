@@ -1,0 +1,14 @@
+Package: EDMS657Data
+Type: Package
+Title: Datasets for EDMS657
+Version: 0.1.0
+Author: Yi Feng [aut], 
+          Gregory R. Hancock [aut]
+Maintainer: Yi Feng<yifeng94@umd.edu>
+Description: The package contains the datasets used in R tutorials for EDMS657.
+Depends:
+    R (>= 3.5.0)
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
