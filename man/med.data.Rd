@@ -3,7 +3,7 @@
 \docType{data}
 \name{med.data}
 \alias{med.data}
-\title{"med.data"}
+\title{Data for medical students.}
 \format{an rda file}
 \usage{
 med.data
