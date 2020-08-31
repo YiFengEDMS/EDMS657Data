@@ -3,7 +3,7 @@
 \docType{data}
 \name{turtle}
 \alias{turtle}
-\title{female turtles data.}
+\title{Female turtles data.}
 \format{an rda file}
 \usage{
 turtle

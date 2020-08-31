@@ -3,7 +3,7 @@
 #' @name EDMS657Data
 NULL
 
-#' female turtles data.
+#' Female turtles data.
 #'
 #' A data set containing the data from female turtles.
 #' @format an rda file
@@ -67,7 +67,7 @@ NULL
 "animal"
 
 
-#' Classifying beers.
+#' Data for classifying beers.
 #'
 #' A marketing analyst is trying to develop a classification scheme for beer based on several characteristics that may be relevant to consumers. She samples 20 popular beers and gathers data on their per-serving in terms of the following 4 aspects: calorie content, sodium content, alcohol content, and cost per unit volume.
 #' @format an rda file

@@ -3,7 +3,7 @@
 \docType{data}
 \name{beer}
 \alias{beer}
-\title{Classifying beers.}
+\title{Data for classifying beers.}
 \format{an rda file}
 \usage{
 beer
