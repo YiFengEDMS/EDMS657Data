@@ -11,4 +11,7 @@ test.data
 \description{
 The correlation matrix reported in Hancock (1994). The examinations for two educational measurement/statistics classes were constructed as half multiple-choice (MC) and half constructed-response (CR), containing equal number of items in each format written for the knowledge (know), comprehension (comp), application (appl), and analysis (anal) levels of Bloom’s Taxonomy.
 }
+\references{
+Hancock (1994)
+}
 \keyword{datasets}
