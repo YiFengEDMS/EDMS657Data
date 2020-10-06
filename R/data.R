@@ -110,3 +110,10 @@ NULL
 #' Researchers are interested in studying whether the brand of sneakers affects how high individuals can jump up from the ground. A group of subjects were tested repeatedly wearing three different brands of sneakers: Reebok, Nike, and Converse. 
 #' @format an rda file
 "MANOVA_RM"
+
+
+#' Data used for model-based MANOVA example.
+#'
+#' Testing the differences in three outcome variables (teach1-teach3) between two professor groups.
+#' @format an rda file
+"teacher"
