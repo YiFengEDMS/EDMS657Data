@@ -4,7 +4,9 @@
 \name{teacher}
 \alias{teacher}
 \title{Data used for model-based MANOVA example.}
-\format{an rda file}
+\format{
+an rda file
+}
 \usage{
 teacher
 }

@@ -4,7 +4,9 @@
 \name{MANOVA2way}
 \alias{MANOVA2way}
 \title{Data used for two-way MANOVA.}
-\format{an rda file}
+\format{
+an rda file
+}
 \usage{
 MANOVA2way
 }

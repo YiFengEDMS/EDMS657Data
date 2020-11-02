@@ -4,7 +4,9 @@
 \name{animal}
 \alias{animal}
 \title{Rate how similar are the nine types of animals.}
-\format{an rda file}
+\format{
+an rda file
+}
 \usage{
 animal
 }

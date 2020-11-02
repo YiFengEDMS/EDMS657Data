@@ -4,7 +4,9 @@
 \name{beer}
 \alias{beer}
 \title{Data for classifying beers.}
-\format{an rda file}
+\format{
+an rda file
+}
 \usage{
 beer
 }

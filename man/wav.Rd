@@ -4,7 +4,9 @@
 \name{wav}
 \alias{wav}
 \title{Polytomous item response data from Finney et al. (2004).}
-\format{an rda file}
+\format{
+an rda file
+}
 \usage{
 wav
 }

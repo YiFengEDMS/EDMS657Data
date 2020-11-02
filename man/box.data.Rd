@@ -4,7 +4,9 @@
 \name{box.data}
 \alias{box.data}
 \title{Thurstone's box problem.}
-\format{an rda file}
+\format{
+an rda file
+}
 \usage{
 box.data
 }

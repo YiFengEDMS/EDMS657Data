@@ -4,7 +4,9 @@
 \name{test.data}
 \alias{test.data}
 \title{Assessment data from Hancock (1994).}
-\format{an rda file}
+\format{
+an rda file
+}
 \usage{
 test.data
 }

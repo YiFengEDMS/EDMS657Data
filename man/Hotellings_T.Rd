@@ -4,7 +4,9 @@
 \name{Hotellings_T}
 \alias{Hotellings_T}
 \title{Data used for two-group MANOVA (Hotelling's T^2).}
-\format{an rda file}
+\format{
+an rda file
+}
 \usage{
 Hotellings_T
 }

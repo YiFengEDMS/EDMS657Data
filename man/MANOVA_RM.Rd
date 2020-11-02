@@ -4,7 +4,9 @@
 \name{MANOVA_RM}
 \alias{MANOVA_RM}
 \title{Data used for MANOVA with repeated measures.}
-\format{an rda file}
+\format{
+an rda file
+}
 \usage{
 MANOVA_RM
 }

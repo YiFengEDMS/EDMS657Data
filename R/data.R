@@ -1,6 +1,7 @@
 #' EDSM657 Data Files
 #' @docType package
 #' @name EDMS657Data
+#' @description Data Files used in EDMS657 at UMD
 NULL
 
 #' Female turtles data.
@@ -117,3 +118,10 @@ NULL
 #' Testing the differences in three outcome variables (teach1-teach3) between two professor groups.
 #' @format an rda file
 "teacher"
+
+
+#' Data used for k-means cluster analysis example.
+#'
+#' Twelve items adapted from the Achievement Goal Questionnairewere administered to n=2111 college students (see Finney, Pieper, & Barron, 2004).
+#' @format an rda file
+"AGOscores"

@@ -4,7 +4,9 @@
 \name{spearman}
 \alias{spearman}
 \title{Spearman's data.}
-\format{an rda file}
+\format{
+an rda file
+}
 \usage{
 spearman
 }

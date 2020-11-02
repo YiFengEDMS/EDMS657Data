@@ -3,8 +3,7 @@
 \docType{package}
 \name{EDMS657Data}
 \alias{EDMS657Data}
-\alias{EDMS657Data-package}
 \title{EDSM657 Data Files}
 \description{
-EDSM657 Data Files
+Data Files used in EDMS657 at UMD
 }

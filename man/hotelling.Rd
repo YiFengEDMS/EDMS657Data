@@ -4,7 +4,9 @@
 \name{hotelling}
 \alias{hotelling}
 \title{Hotelling's data.}
-\format{an rda file}
+\format{
+an rda file
+}
 \usage{
 hotelling
 }

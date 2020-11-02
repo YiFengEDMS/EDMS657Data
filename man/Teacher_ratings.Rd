@@ -4,7 +4,9 @@
 \name{Teacher_ratings}
 \alias{Teacher_ratings}
 \title{Data used for three-group MANOVA with six outcomes.}
-\format{an rda file}
+\format{
+an rda file
+}
 \usage{
 Teacher_ratings
 }

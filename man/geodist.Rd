@@ -4,7 +4,9 @@
 \name{geodist}
 \alias{geodist}
 \title{Distance between US cities.}
-\format{an rda file}
+\format{
+an rda file
+}
 \usage{
 geodist
 }

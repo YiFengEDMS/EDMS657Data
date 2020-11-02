@@ -4,7 +4,9 @@
 \name{manova_dat}
 \alias{manova_dat}
 \title{Data used for three-group MANOVA.}
-\format{an rda file}
+\format{
+an rda file
+}
 \usage{
 manova_dat
 }
