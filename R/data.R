@@ -125,3 +125,11 @@ NULL
 #' Twelve items adapted from the Achievement Goal Questionnairewere administered to n=2111 college students (see Finney, Pieper, & Barron, 2004).
 #' @format an rda file
 "AGOscores"
+
+
+
+#' Data used for the univariate mixture modeling example.
+#'
+#' Liu, Hancock, & Harring (2010) discussed how mixtures of univariate normal distributions could be used to examine potential systematic measurement problems. Head circumference measurements data were collected from children who were subject to child abuse and/or neglect.
+#' @format an rda file
+"ME_dat"
