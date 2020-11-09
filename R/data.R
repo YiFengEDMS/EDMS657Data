@@ -133,3 +133,21 @@ NULL
 #' Liu, Hancock, & Harring (2010) discussed how mixtures of univariate normal distributions could be used to examine potential systematic measurement problems. Head circumference measurements data were collected from children who were subject to child abuse and/or neglect.
 #' @format an rda file
 "ME_dat"
+
+
+
+#' Data used for the CART example.
+#'
+#' Baseball data.
+#' @format an rda file
+"hitters"
+
+
+#' Data used for the CART example.
+#'
+#' Heart health data.
+#' @format an rda file
+"heart"
+
+
+
