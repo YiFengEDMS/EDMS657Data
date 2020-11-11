@@ -150,4 +150,12 @@ NULL
 "heart"
 
 
+#' Data used for the LCA example.
+#' Dayton & Scheers (1997) surveyed n=319 upper level undergraduates
+#' about their cheating behavior in the university setting.
+#' "Haveyou ever lied to avoid taking an exam and/or to avoid handing in a paper on time?"
+#' "Have you ever purchased a term paper and/or acquired a copy of an exam ahead of time?"
+#' "Have you ever copied answers from another student during an exam?"
+#' @format an rda file
+"cheat_dat"
 
