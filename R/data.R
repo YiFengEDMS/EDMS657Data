@@ -151,6 +151,7 @@ NULL
 
 
 #' Data used for the LCA example.
+#' 
 #' Dayton & Scheers (1997) surveyed n=319 upper level undergraduates
 #' about their cheating behavior in the university setting.
 #' "Haveyou ever lied to avoid taking an exam and/or to avoid handing in a paper on time?"
@@ -159,3 +160,10 @@ NULL
 #' @format an rda file
 "cheat_dat"
 
+
+#' Data used for the SVM example.
+#' 
+#' One binary outcome: Whether or not a patient has the heart disease.
+#' Two predictor variables: age and cholesterol level. 
+#' @format an rda file
+"lab"
